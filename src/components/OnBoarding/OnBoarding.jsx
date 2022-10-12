@@ -2,9 +2,8 @@ import { useState } from "react";
 import { Input } from "../Input/Input";
 import { TextCard } from "../TextCard/TextCard";
 import { Button } from "../Button/Button";
-import { cardContent } from "../../utils/cardContent";
+import { cardContent, tabHeadings } from "../../utils";
 import check from "../../assets/checkmark.png";
-import { tabHeadings } from "../../utils/tabHeadings";
 import { StepProgressBar } from "../StepProgressBar/StepProgressBar";
 import "./onBoarding.css";
 

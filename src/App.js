@@ -1,6 +1,5 @@
 import './App.css';
-import { Header } from './components/Header/Header';
-import { OnBoarding } from './components/OnBoarding/OnBoarding';
+import { Header, OnBoarding } from './components';
 
 function App() {
   return (
